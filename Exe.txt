@@ -1,0 +1,5 @@
+cd C:\Users\lizandro.vivanco\Documents\Visual Code\Aplicaciones
+
+pyinstaller --windowed --onefile --icon=./Email.ico AppCorreo.py
+
+pyinstaller --windowed --icon=./Email.ico EnvioMailCot.py
